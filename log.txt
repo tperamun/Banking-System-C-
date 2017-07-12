@@ -1,0 +1,50 @@
+manager1:      Mon Jul 10 12:32:25 2017
+     Manager1 logged off
+manager1:      Mon Jul 10 12:32:21 2017
+     Manager1 signed on
+manager1:      Mon Jul 10 12:30:52 2017
+     Manager1 signed on
+manager1:      Mon Jul 10 12:26:50 2017
+     Closed Business account  for user with ID 071488
+071488:      Mon Jul 10 11:25:51 2017
+     Customer signed on 
+071488:      Mon Jul 10 11:18:23 2017
+     Customer signed on 
+071488:      Mon Jul 10 11:09:26 2017
+     Customer signed on 
+manager1:      Mon Jul 10 10:42:54 2017
+     Opened Business's account for  with ID 071488
+071488:      Mon Jul 10 10:36:29 2017
+     Customer logged off 
+071488:      Mon Jul 10 10:36:07 2017
+     Transfered from  Checking's account ' to Saving's account in the amount of $2
+071488:      Mon Jul 10 10:35:31 2017
+     Customer signed on 
+071488:      Mon Jul 10 10:33:57 2017
+     Transfered  Checking to Saving's account in the amount of $1
+071488:      Mon Jul 10 10:33:29 2017
+     Customer signed on 
+071488:      Mon Jul 10 10:33:11 2017
+     Customer logged off 
+071488:      Mon Jul 10 10:33:00 2017
+     Withdrew from Checking's account in the amount of $100
+071488:      Mon Jul 10 10:32:32 2017
+     Withdrew from Saving's account in the amount of $20
+071488:      Mon Jul 10 10:32:27 2017
+     Customer signed on 
+071488:      Mon Jul 10 10:31:19 2017
+     Withdrew from Saving's account in the amount of $20
+071488:      Mon Jul 10 10:31:06 2017
+     Customer signed on
+071488:      Mon Jul 10 10:29:12 2017
+     Customer signed on
+071488:      Mon Jul 10 10:27:32 2017
+     Customer signed on
+071488:      Mon Jul 10 10:24:24 2017
+     Customer signed on
+071488:      Mon Jul 10 10:23:25 2017
+     Customer signed on
+071488:      Mon Jul 10 10:22:42 2017
+     Deposited to Checking's account in the amount of $700
+071488:      Mon Jul 10 10:22:27 2017
+     Customer signed on
